@@ -8,9 +8,9 @@ import { Button } from "./ui/button";
 const questions = [
   {
     question: "How much plastic enters the ocean each year?",
-    options: ["1 million tons", "8 million tons", "500,000 tons"],
+    options: ["1 million tons", "11 million tons", "500,000 tons"],
     correct: 1,
-    explanation: "8 million tons of plastic waste enter our oceans annually, equivalent to dumping a garbage truck of plastic into the ocean every minute."
+    explanation: "11 million tons of plastic waste enter our oceans annually, equivalent to dumping a garbage truck of plastic into the ocean every minute."
   },
   {
     question: "How long does plastic take to decompose in the ocean?",

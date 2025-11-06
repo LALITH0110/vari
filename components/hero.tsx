@@ -55,7 +55,7 @@ export function Hero() {
               The <i className="font-light">Crisis</i>
             </h2>
             <p className="text-lg text-foreground/70 leading-relaxed mb-12">
-              8 million tons of plastic enter our oceans annually, forming harmful accumulation zones that kill marine life and disrupt coastal economies
+              11 million tons of plastic enter our oceans annually, forming harmful accumulation zones that kill marine life and disrupt coastal economies
             </p>
             <div className="bg-foreground/5 border border-foreground/10 rounded-lg p-8 text-left">
               <h3 className="text-2xl font-bold mb-4 text-primary">Cleanup Crews Need Forecasts</h3>
